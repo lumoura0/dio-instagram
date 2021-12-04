@@ -1,7 +1,8 @@
 ## 📖 Sobre
 Recriando a página inicial do Instagram !!!
 
-![https://i.imgur.com/mIO8gIp.png]
+<a href="https://imgur.com/mIO8gIp"><img src="https://i.imgur.com/mIO8gIp.png" title="source: imgur.com" /></a>
+
 
 
 ## 🚀 Tecnologias e Utilizadas
